@@ -21,7 +21,4 @@ for line in f:
     cal_sum += int(cal_value)
 print(cal_sum)
 
-
-
-
 f.close()
